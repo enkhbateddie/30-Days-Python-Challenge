@@ -1,0 +1,6 @@
+Hi {name}! 
+Thank you for the purchase on {date}. 
+We hope you are exicted about using it. Just as a
+reminder the purcase total was ${amount}.
+Have a great one!
+Team CFE
